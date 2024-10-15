@@ -20,77 +20,99 @@
 
 * 🌎 Сейчас я живу в Энгельсе, России.
 * ✉️ Для связи со мной можете написать мне в telegram - @rando_wierdo или написать мне на почту [eremeev2004@gmail.com](mailto:eremeevt2004@gmail.com)
-* 🧠 В данный момент изучаю современный стек для работы на backend части приложений: GraphQL, Go
+* 🧠 В данный момент изучаю современный стек для работы на backend части приложений: GraphQL, Go и Rust
 * 💡 Также интересуюсь современными языками программирования и в данный момет работаю над маленьким проектом на Rust и парой маленьких проектов на Go
 
 ## Навыки
 ### Java
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,scala,spring,hibernate,jenkins,selenium,firebase,gradle" />
+    <img src="https://skillicons.dev/icons?i=java,scala,spring,hibernate,selenium,gradle&theme=dark" />
   </a>
 </p>
 
 ### Python
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,django,fastapi,selenium,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,flask,django,fastapi,selenium,anaconda&theme=dark" />
   </a>
 </p>
 
 ### Web
 #### FRONT
+
+##### Vue
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vuetify,react,redux,materialui,tailwind,windicss,sass,js,ts" />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,js,ts&theme=dark" />
+  </a>
+</p>
+
+##### React
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,materialui,js,ts&theme=dark" />
+  </a>
+</p>
+
+##### Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,windicss,tailwind,scss,emotion,styledcomponents,materialui,js,ts&theme=dark" />
   </a>
 </p>
 
 #### BACK & SERVER
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,npm,graphql,nginx,js,ts" />
+    <img src="https://skillicons.dev/icons?i=tauri,vite,express,nextjs,nodejs,nestjs,npm,graphql,nginx,js,ts&theme=dark" />
   </a>
 </p>
 
 #### MONITORING
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
   </a>
 </p>
 
 #### DB
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,cassandra,postgres,mysql,sqlite,elasticsearch" />
+    <img src="https://skillicons.dev/icons?i=prisma,redis,mongodb,cassandra,postgres,mysql,sqlite,elasticsearch,firebase,supabase&theme=dark" />
   </a>
 </p>
 
 #### MSG BROKERS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" />
   </a>
 </p>
 
-### DEVOPS
+### DEVOPS & CI/CD
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,yarn" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,npm,pnpm,yarn,bun,deno&theme=dark" />
+  </a>
+</p>
+
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&theme=dark" />
   </a>
 </p>
 
 ### С development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake&theme=dark" />
   </a>
 </p>
 
 ### Other
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,postman,rust,go" />
+    <img src="https://skillicons.dev/icons?i=latex,md,obsidian,bash,git,postman,ruby,rust,go&theme=dark" />
   </a>
 </p>
